@@ -1,6 +1,7 @@
 
 public class chapter04 {
 	 public static void main(String[] args) {
+
 	        final int num1 = 5;
 	        String str1 = "abcd";
 	        System.out.println(num1);
